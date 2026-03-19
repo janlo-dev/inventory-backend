@@ -42,4 +42,28 @@ public class CategoryServiceImpl implements ICategoryService {
 		return new ResponseEntity<CategoryResponseRest>(response, HttpStatus.OK);
 	}
 
+	@Override
+	public ResponseEntity<CategoryResponseRest> searchById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResponseEntity<CategoryResponseRest> save(Category category) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResponseEntity<CategoryResponseRest> update(Category category, Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public ResponseEntity<CategoryResponseRest> deleteById(Long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }
