@@ -3,10 +3,10 @@
 Proyecto desarrollado para la gestión de stocks, enfocado en una arquitectura limpia y escalable utilizando el ecosistema de Spring.
 
 ## ⚡ Tecnologías Utilizadas
-* **Java 17** (o la versión que uses)
+* **Java 17**
 * **Spring Boot 3**
 * **Spring Data JPA** para la persistencia.
-* **MySQL/PostgreSQL** como base de datos.
+* **MySQL** como base de datos.
 * **Maven** para la gestión de dependencias.
 
 ## 🚀 Estado del Proyecto
